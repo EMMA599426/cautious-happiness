@@ -1,0 +1,13 @@
+回声“#谨慎－幸福”> > README．md
+
+git init
+
+添加README．md
+
+git commit－m“first commit”
+
+git分支－M main
+
+远程添加原点https://github.com/EMMA599426/cautious-happiness.git
+
+git push－u原点主
